@@ -16,7 +16,7 @@ color: #cec8ff;
 
 footer {
     background-image: linear-gradient(#cec8ff, white);
-    padding: 20px ,0;
+    padding: 20px 0;
 }
 
 .jumbotron {
@@ -25,8 +25,8 @@ footer {
     color: white;
 }
 
-.row-content {
-    padding: 50px, 0;
-    border-bottom: 1px, ridge;
+.row-content { /* no COMMas!!!!!!!*/
+    padding: 50px 0;
+    border-bottom: 1px ridge;
     min-height: 200px;
 }
